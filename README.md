@@ -1,2 +1,0 @@
-# Alan
-just a repository
